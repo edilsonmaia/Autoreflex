@@ -1,0 +1,65 @@
+LICENSE
+AutoReflex – Licença de Uso e Distribuição Comunitária
+
+Copyright (c) 2026 Edilson Maia Favero
+
+1. Concessão de Licença
+É concedida permissão, de forma gratuita, a qualquer pessoa ou entidade que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para utilizar o Software tanto para fins pessoais quanto comerciais, sem restrições de execução, desde que cumpridas as condições estabelecidas nesta licença.
+
+2. Condições de Atribuição (Obrigatório)
+O Software e todas as suas distribuições originais ou modificadas devem manter, de forma visível e inalterada, as seguintes informações de autoria e manutenção:
+
+Criador: Edilson Maia Favero
+
+E-mail: edilson.tec@hotmail.com
+
+Projeto: AutoReflex
+
+Mantenedora: Costafavero - Tecnologia Comércio e Serviços LTDA
+
+Site: costafavero.com.br
+
+3. Reciprocidade e Código Aberto (Copyleft Parcial)
+O AutoReflex foi concebido para evoluir colaborativamente com a comunidade. Aplicam-se as seguintes regras de modificação:
+
+Melhorias no Núcleo: Qualquer modificação, correção de falhas ou melhoria funcional realizada diretamente no código-fonte do AutoReflex deve ser compartilhada publicamente com a comunidade de forma totalmente gratuita e sob esta mesma licença.
+
+Desenvolvimento Comercial: Esta licença não proíbe a venda ou licenciamento de softwares proprietários que utilizem o AutoReflex como componente, biblioteca ou motor de automação. É permitido cobrar pelo software final, contudo, o licenciamento das partes que compõem o código original ou derivado do AutoReflex deve permanecer livre de custos e acessível ao usuário final.
+
+4. Isenção de Responsabilidade
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO. EM NENHUM EVENTO OS AUTORES OU A MANTENEDORA SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE DECORRENTE DO USO DESTE SOFTWARE.
+
+NOTAS TÉCNICAS E CAPACIDADES AVANÇADAS
+Eficiência de Contexto e Operação
+O AutoReflex foi projetado para maximizar a eficiência operacional, apresentando uma redução de 85,47% no consumo de tokens em inícios de sessão.
+
+Dinâmica de Sessão: Esta economia significa que, ao concluir uma tarefa e consolidar o conhecimento em "Skills" indexadas localmente, o utilizador pode reiniciar o agente com um contexto limpo.
+
+Vantagem Operacional: Em vez de continuar uma tarefa com o contexto saturado — o que aumenta o custo e degrada a performance —, o agente consome drasticamente menos tokens ao consultar apenas as habilidades específicas necessárias para a nova etapa, eliminando a necessidade de reprocessar históricos extensos.
+
+
+ADENDO: TECNOLOGIAS DE MISSÃO CRÍTICA (COSTAFAVERO)
+A Costafavero disponibiliza tecnologias de processamento de alto nível para cenários que exigem precisão absoluta, superando as limitações de arquiteturas convencionais através de um paradigma de fidelidade determinística.
+
+1. QVR Engram
+Motor de processamento de alta performance projetado para operar em hardware padrão (CPUs e GPUs), entregando resultados que desafiam os limites da computação tradicional.
+
+Fidelidade Determinística: Opera com 0.00% de interferência ou erro, eliminando completamente as alucinações comuns em sistemas probabilísticos e garantindo segurança matemática em cada decisão.
+
+Escalabilidade Massiva: Resolve problemas de alta complexidade com variáveis densas de forma instantânea, mantendo eficiência energética e operacional superior em ambientes de missão crítica.
+
+2. Esensor
+Camada de sensoriamento semântico e triagem neuroestimulada de alta velocidade.
+
+Defesa e Resposta Ativa: Atua no endurecimento de segurança e análise de logs em tempo real, permitindo que o sistema identifique e reaja a falhas de infraestrutura antes que se tornem críticas.
+
+Precisão Operacional: Projetado para separar o ruído de contexto das variáveis reais de decisão, acelerando a resolução de problemas complexos de forma robusta e persistente.
+
+Consultoria e Integração
+Para implementar estas soluções de erro zero em infraestruturas de defesa, automação industrial ou sistemas de alta disponibilidade, entre em contato com o diretor do projeto:
+
+Edilson Maia Favero
+
+E-mail: edilson.tec@hotmail.com
+
+Web: costafavero.com.br | projetoqvr.com.br
